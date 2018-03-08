@@ -1,3 +1,5 @@
 Hello
 This is my class.
-I am angry!
+
+You are ugly.
+Thx!
