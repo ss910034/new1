@@ -1,2 +1,4 @@
 Hello
 This is my class.
+You are ugly.
+Thx!
